@@ -1,0 +1,351 @@
+{
+  "main": {
+    "id": "83303301782e0230",
+    "type": "split",
+    "children": [
+      {
+        "id": "165d78594e610cd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "777cdfe1c204e83d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Linux/Linux Commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Linux Commands"
+            }
+          },
+          {
+            "id": "13170a88c1fe96fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Linux/Ubuntu System Update Log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ubuntu System Update Log"
+            }
+          },
+          {
+            "id": "5b759a6e3ec650c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/C/C Libraries/yyjson/yyjson_read_file_flags.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "yyjson_read_file_flags"
+            }
+          },
+          {
+            "id": "28811b3c7c1ae956",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arch Linux Update Log.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arch Linux Update Log"
+            }
+          },
+          {
+            "id": "98c98ad8127721e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vcpkg.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vcpkg"
+            }
+          },
+          {
+            "id": "caf6b8657905f924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cmake/CMake General Syntax.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CMake General Syntax"
+            }
+          },
+          {
+            "id": "8ec3f672bb1e4c4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cmake/cmake_terminal_syntax.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cmake_terminal_syntax"
+            }
+          },
+          {
+            "id": "361af7620eac1f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "hermes_agent/Hermes Setup.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hermes Setup"
+            }
+          },
+          {
+            "id": "091e0da6d5fe628a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Linux/ArchLinux/Arch Packages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arch Packages"
+            }
+          },
+          {
+            "id": "4d8cfaf1fbc47967",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hermes Unique Shell Access.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hermes Unique Shell Access"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "803f802ab7a52025",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a2f6a22e29601cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55d534228ee0e5ce",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5eaf22728a3fd9e8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "dereference",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "27c0b6b849c75ff0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "86b4cac001c81797",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ac3c2381ddcae57",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ebc782db0f838d8b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2026-03-16.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2026-03-16"
+            }
+          },
+          {
+            "id": "2c073f2f81cc466b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2026-03-16.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2026-03-16"
+            }
+          },
+          {
+            "id": "6016ae90efd61105",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "49f6a0d0dbcaf4fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4d8cfaf1fbc47967",
+  "lastOpenFiles": [
+    "hermes_agent/hermes_commands",
+    "Hermes Unique Shell Access.md",
+    "hermes_agent/Hermes Setup.md",
+    "Programming/Cmake/cmake_terminal_syntax.md",
+    "Programming/Cmake/CMake General Syntax.md",
+    "vcpkg.md",
+    "Arch Linux Update Log.md",
+    "Programming/C/C Libraries/yyjson/yyjson_read_file_flags.md",
+    "Programming/Linux/Ubuntu System Update Log.md",
+    "Programming/Linux/Linux Commands.md",
+    "Programming/Linux/ArchLinux/Arch Packages.md",
+    "hermes_agent",
+    "Programming/Neovim/Vim Motions.md~",
+    "Programming/Cmake/cmake_terminal_syntax.md~",
+    "Jetbrains/CLion Hotkeys.md",
+    "Obsidian/Obsidian Hotkeys.md",
+    "Programming/C/C Libraries/yyjson/yyjson_doc_get_root.md",
+    "Programming/Cmake/cmakedefine01.md",
+    "Programming/C/EOF.md",
+    "Cox and Spectrum Test.md",
+    "Hollix Business Model.md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "Programming/C/C Libraries/yyjson/yyjson_is_object().md",
+    "Programming/C/C Libraries/yyjson/yyjson_read_file().md",
+    "Programming/C/C Libraries/yyjson/yyjson_val.md",
+    "Programming/C/snprintf().md",
+    "Programming/C/C Libraries/yyjson/yyjson_doc.md",
+    "Programming/C/C Libraries/yyjson/yyjson_read_err.md",
+    "Programming/C/C Libraries/yyjson",
+    "Programming/Embedded/Embedded Learning Resources",
+    "Sundt/Sundt Project Ideas",
+    "Sundt",
+    "Programming/GitHub",
+    "Programming/Projects/CLearning",
+    "Programming/C/Lapideus/Lapideus Source",
+    "Images/AC_and_DC.jpg",
+    "Images/Hollix_box.png",
+    "Images/nvic_4.jpg",
+    "Images/nvic_3.jpg",
+    "Images/nvic_2.jpg",
+    "Images/nvic_1.jpg",
+    "Images/BSSR_image_3.jpg",
+    "Images/BSSR_image_2.jpg",
+    "Images/BSSR_image_1.jpg",
+    "Images/GPIO_moder.png",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

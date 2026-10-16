@@ -1,0 +1,2 @@
+Related to [[School]]
+#school

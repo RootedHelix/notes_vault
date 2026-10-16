@@ -1,0 +1,4 @@
+Related to [[Leetcode]]
+#leetcode 
+
+- One thing that occurred to me today as I was solving an algorithm was the nature by which we arrive at the solution. Solving these algorithms without the use of AI is the development of intuition through experimentation. Over and over again, through trial and error one will throw their attempts at problems they may have not seen before. As problems become more familiar and similar patters start making themselves more apparent (intuition), we are able to develop speed and understanding of the algorithms that surface throughout not just one but a variety of problem sets. 

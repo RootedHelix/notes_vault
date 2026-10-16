@@ -1,0 +1,41 @@
+{
+  "items": [
+    {
+      "type": "group",
+      "ctime": 1752896825963,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1752897209938,
+          "path": "Programming/Computer Architecture/Computing Terms.md",
+          "title": "Computing Terms"
+        },
+        {
+          "type": "file",
+          "ctime": 1752896838672,
+          "path": "Programming/C/C Networking/Digital Networking Port vs Physical Networking Port.md",
+          "title": "Dgtl Networking ports vs Physical Networking Ports"
+        }
+      ],
+      "title": "Read Later"
+    },
+    {
+      "type": "group",
+      "ctime": 1752897844647,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1752897263738,
+          "path": "Programming/Computer Architecture/CPU access architecture (Ram and CPU Cache).md"
+        }
+      ],
+      "title": "Lapideus"
+    },
+    {
+      "type": "folder",
+      "ctime": 1756257446725,
+      "path": "Programming/Programming Patterns",
+      "title": "Programing Patterns"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+- A cluster of good runs beats a single high success run
+- Looking for consistent success
