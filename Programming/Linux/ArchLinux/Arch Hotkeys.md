@@ -13,3 +13,7 @@ Verify that integrated graphics are in use: `glxinfo | grep "OpenGL renderer"`
 
 `pactl get-default-sink`: That displays the default audio device
 
+
+## Hyprland
+
+`SUPER + v` :   Focus Window on one tile

@@ -84,8 +84,23 @@ ArchWiki
 
 Used to run applications in isolation
 
+## Xclip
 
-## Security
+
+## dmidecode
+
+- Linux administrative utility used for observing hardware
+
+### Keyring
+
+### gnome-keyring
+
+### libsecret
+
+### seahorse
+
+---
+# Security
 
 ##### `sudo bash -c 'echo "nameserver 1.1.1.1" > /etcresolv.conf'`
 

@@ -185,10 +185,22 @@ Every time you connect to a new address (like `192.168.20.106`, `192.168.20.78`,
 ## Validate the backup by testing Restoring a Directory
 
 
+
+
 ```bash
 mkdir ~/borg-test
 cd ~/borg-test
 ```
+
+###### Find the ARCHIVE NAME by listing the archives on borg
+
+```bash
+borg list \
+  --rsh "ssh -p 2222" \
+  helixback@x.x.x.x:/mnt/q/borg-repos/linux-pc-newgen
+```
+
+
 
 ```bash
 borg extract \
@@ -198,6 +210,13 @@ etc/fstab
 ```
 
 
+## Borg Check
+```bash 
+borg check \
+  --rsh "ssh -p 2222" \
+  --remote-path /usr/bin/borg \
+  helixback@YOUR_SERVER_IP:/mnt/q/borg-repos/linux-pc-newgen
+```
 
 # GPT
 

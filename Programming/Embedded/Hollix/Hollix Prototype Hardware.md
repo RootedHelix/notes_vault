@@ -9,7 +9,8 @@ Link - https://www.displaymodule.com/products/4-inch-ips-high-brightness-display
 - Data Sheets and technical information are included in the webpage
 ### MCU - STM32H750XBH6
 
-Target Prototype: NUCLEO-H743ZI2
+Target Prototype: NUCLEO-H753ZI
+Previous board, discontinued: NUCLEO-H743ZI2
 - Data sheets and information on the stm32 Website 
 ### Modern high-voltage backlight driver IC - Purchased from Digikey - TPS61176EVM-566
 

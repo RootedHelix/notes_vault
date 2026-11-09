@@ -1,0 +1,1 @@
+Hermes Docker bind mount verified.

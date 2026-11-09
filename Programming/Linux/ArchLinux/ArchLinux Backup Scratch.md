@@ -12,3 +12,6 @@ archboxx-2026-05-28T20:35:53
 ```
 netsh interface portproxy add v4tov4 listenport=22 listenaddress=0.0.0.0 connectport=22 connectaddress=172.31.252.243
 ```
+
+
+192.168.0.110

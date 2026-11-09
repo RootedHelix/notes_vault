@@ -22,48 +22,6 @@
             }
           },
           {
-            "id": "13170a88c1fe96fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Linux/Ubuntu System Update Log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ubuntu System Update Log"
-            }
-          },
-          {
-            "id": "5b759a6e3ec650c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/C/C Libraries/yyjson/yyjson_read_file_flags.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "yyjson_read_file_flags"
-            }
-          },
-          {
-            "id": "28811b3c7c1ae956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Arch Linux Update Log.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arch Linux Update Log"
-            }
-          },
-          {
             "id": "98c98ad8127721e7",
             "type": "leaf",
             "state": {
@@ -106,21 +64,215 @@
             }
           },
           {
-            "id": "361af7620eac1f13",
+            "id": "67e837e5d92cb690",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "hermes_agent/Hermes Setup.md",
+                "file": "Programming/Neovim/Vim Motions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hermes Setup"
+              "title": "Vim Motions"
             }
           },
           {
-            "id": "091e0da6d5fe628a",
+            "id": "ef8beee700122008",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/clang-tidy/clang_tidy_commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "clang_tidy_commands"
+            }
+          },
+          {
+            "id": "5178ba5d3e25ee9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cmake/cmake_run_program.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cmake_run_program"
+            }
+          },
+          {
+            "id": "9624dd259bb571ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cmake/cmake_terminal_syntax.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cmake_terminal_syntax"
+            }
+          },
+          {
+            "id": "5604507404727916",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
+            }
+          },
+          {
+            "id": "5c9c80df68273b4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/clang-tidy/clang_tidy_commands.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "clang_tidy_commands"
+            }
+          },
+          {
+            "id": "acdc8685d824ad3b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Linux/ArchLinux/Arch Linux Backup System.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arch Linux Backup System"
+            }
+          },
+          {
+            "id": "77c81cbfb650bce5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Linux/ArchLinux/ArchLinux Backup Scratch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ArchLinux Backup Scratch"
+            }
+          },
+          {
+            "id": "8d8cb905e7573838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/C/Variadic List.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variadic List"
+            }
+          },
+          {
+            "id": "20a4c16a8b5760ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Embedded/__get_Primask().md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "__get_Primask()"
+            }
+          },
+          {
+            "id": "26c7f2cfd87459c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Embedded/HAL_UART_Transmit_DMA.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HAL_UART_Transmit_DMA"
+            }
+          },
+          {
+            "id": "f35a2df1f5a2b5e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Embedded/UART Universal Asynchronous Receiver or Transmitter.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UART Universal Asynchronous Receiver or Transmitter"
+            }
+          },
+          {
+            "id": "e45a1cf33beb03a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Embedded/MOSI and MISO.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MOSI and MISO"
+            }
+          },
+          {
+            "id": "f024e450a87aa0bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Cmake/cmake_run_program.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "cmake_run_program"
+            }
+          },
+          {
+            "id": "6a5f0bc69a783a76",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/C/vsnprintf().md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vsnprintf()"
+            }
+          },
+          {
+            "id": "54bf37d8e58ad7f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -132,23 +284,9 @@
               "icon": "lucide-file",
               "title": "Arch Packages"
             }
-          },
-          {
-            "id": "4d8cfaf1fbc47967",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hermes Unique Shell Access.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Hermes Unique Shell Access"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -168,7 +306,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -180,7 +320,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dereference",
+                "query": "terminal commands",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,8 +341,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -297,44 +436,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4d8cfaf1fbc47967",
+  "active": "8ec3f672bb1e4c4d",
   "lastOpenFiles": [
-    "hermes_agent/hermes_commands",
-    "Hermes Unique Shell Access.md",
-    "hermes_agent/Hermes Setup.md",
-    "Programming/Cmake/cmake_terminal_syntax.md",
-    "Programming/Cmake/CMake General Syntax.md",
-    "vcpkg.md",
-    "Arch Linux Update Log.md",
-    "Programming/C/C Libraries/yyjson/yyjson_read_file_flags.md",
-    "Programming/Linux/Ubuntu System Update Log.md",
-    "Programming/Linux/Linux Commands.md",
-    "Programming/Linux/ArchLinux/Arch Packages.md",
-    "hermes_agent",
-    "Programming/Neovim/Vim Motions.md~",
     "Programming/Cmake/cmake_terminal_syntax.md~",
-    "Jetbrains/CLion Hotkeys.md",
-    "Obsidian/Obsidian Hotkeys.md",
-    "Programming/C/C Libraries/yyjson/yyjson_doc_get_root.md",
-    "Programming/Cmake/cmakedefine01.md",
-    "Programming/C/EOF.md",
-    "Cox and Spectrum Test.md",
-    "Hollix Business Model.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Programming/C/C Libraries/yyjson/yyjson_is_object().md",
-    "Programming/C/C Libraries/yyjson/yyjson_read_file().md",
-    "Programming/C/C Libraries/yyjson/yyjson_val.md",
-    "Programming/C/snprintf().md",
-    "Programming/C/C Libraries/yyjson/yyjson_doc.md",
-    "Programming/C/C Libraries/yyjson/yyjson_read_err.md",
-    "Programming/C/C Libraries/yyjson",
-    "Programming/Embedded/Embedded Learning Resources",
-    "Sundt/Sundt Project Ideas",
-    "Sundt",
-    "Programming/GitHub",
-    "Programming/Projects/CLearning",
-    "Programming/C/Lapideus/Lapideus Source",
+    "Programming/Cmake/CMake General Syntax.md",
+    "Programming/Cmake/cmake_terminal_syntax.md",
+    "Programming/Neovim/Vim Motions.md",
+    "Programming/clang-tidy/clang_tidy_commands.md",
+    "Programming/Cmake/cmake_run_program.md",
+    "vcpkg.md",
+    "Programming/Linux/Linux Commands.md",
+    "hermes_agent/hermes_commands/Hermes Bash Commands.md",
+    "Programming/Linux/ArchLinux/Arch Packages.md",
+    "Programming/Embedded/Hollix/Hollix RingBuffer Zephyr Upgrade.md",
+    "Programming/C/vsnprintf().md",
+    "Programming/Embedded/MOSI and MISO.md",
+    "Programming/Linux/ArchLinux/Arch Hotkeys.md",
+    "Programming/Embedded/UART Universal Asynchronous Receiver or Transmitter.md",
+    "Programming/Embedded/Baud Rate.md",
+    "Programming/Embedded/HAL_UART_Transmit_DMA.md",
+    "Programming/Embedded/__get_Primask().md",
+    "Programming/C/Variadic List.md",
+    "Programming/Linux/ArchLinux/Arch Linux Backup System.md",
+    "Programming/Linux/ArchLinux/ArchLinux Backup Scratch.md",
+    "Arch Linux Update Log.md",
+    "Programming/Linux/ArchLinux/Arch Linux Backup Log.md",
+    "Programming/clang-tidy/longest_palindrome.c",
+    "Cmake/cmake_terminal_syntax.md",
+    "Programming/Cmake/cmake_run_program.md~",
+    "Cmake",
+    "Programming/Cmake/testfile.md",
+    "hermes_agent/hermes_commands/Hermes Bash Commands.md~",
+    "hermes-write-test.md",
+    "mount-check.txt",
+    "docker-test.txt",
+    "Programming/clang-tidy",
+    "host-test.txt",
+    "hotkeys",
     "Images/AC_and_DC.jpg",
     "Images/Hollix_box.png",
     "Images/nvic_4.jpg",
