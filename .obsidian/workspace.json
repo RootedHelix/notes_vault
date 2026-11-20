@@ -120,32 +120,6 @@
             }
           },
           {
-            "id": "5604507404727916",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.14.5"
-            }
-          },
-          {
-            "id": "5c9c80df68273b4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/clang-tidy/clang_tidy_commands.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "clang_tidy_commands"
-            }
-          },
-          {
             "id": "acdc8685d824ad3b",
             "type": "leaf",
             "state": {
@@ -157,34 +131,6 @@
               },
               "icon": "lucide-file",
               "title": "Arch Linux Backup System"
-            }
-          },
-          {
-            "id": "77c81cbfb650bce5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Linux/ArchLinux/ArchLinux Backup Scratch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ArchLinux Backup Scratch"
-            }
-          },
-          {
-            "id": "8d8cb905e7573838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/C/Variadic List.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Variadic List"
             }
           },
           {
@@ -272,21 +218,77 @@
             }
           },
           {
-            "id": "54bf37d8e58ad7f6",
+            "id": "222e801c1336e651",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Linux/ArchLinux/Arch Packages.md",
+                "file": "Programming/Embedded/Hollix/Hollix Prototype Hardware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arch Packages"
+              "title": "Hollix Prototype Hardware"
+            }
+          },
+          {
+            "id": "f810abaa94bf2384",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Embedded/Hollix/Hollix Current Steps 11.19.26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hollix Current Steps 11.19.26"
+            }
+          },
+          {
+            "id": "ad702236699641a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Embedded/Hollix/Hardware compatibility-matrix.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hardware compatibility-matrix"
+            }
+          },
+          {
+            "id": "c4b8f1db37a82e44",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Embedded/Hollix/Hollix Prototype Hardware.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hollix Prototype Hardware"
+            }
+          },
+          {
+            "id": "31aec0af3c9fed96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Embedded/Hollix/Hollix Current Steps 11.19.26.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Hollix Current Steps 11.19.26"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 19
       }
     ],
     "direction": "vertical"
@@ -345,8 +347,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "86b4cac001c81797",
@@ -436,43 +437,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8ec3f672bb1e4c4d",
+  "active": "31aec0af3c9fed96",
   "lastOpenFiles": [
-    "Programming/Cmake/cmake_terminal_syntax.md~",
-    "Programming/Cmake/CMake General Syntax.md",
-    "Programming/Cmake/cmake_terminal_syntax.md",
-    "Programming/Neovim/Vim Motions.md",
-    "Programming/clang-tidy/clang_tidy_commands.md",
-    "Programming/Cmake/cmake_run_program.md",
-    "vcpkg.md",
+    "Programming/Embedded/Hollix/Hardware compatibility-matrix.md",
+    "Programming/Embedded/Hollix/Hollix Prototype Hardware.md",
     "Programming/Linux/Linux Commands.md",
-    "hermes_agent/hermes_commands/Hermes Bash Commands.md",
-    "Programming/Linux/ArchLinux/Arch Packages.md",
-    "Programming/Embedded/Hollix/Hollix RingBuffer Zephyr Upgrade.md",
+    "Programming/Embedded/Hollix/DM-TFT40-388_20initialization_20code.rar",
+    "Programming/Embedded/Hollix/display_datasheet.pdf",
+    "Programming/Embedded/Hollix/DM-TFT40-388_20Controller_20Datasheet.pdf",
+    "Programming/Embedded/Hollix/DS_stm32h753zi.pdf",
+    "Programming/Embedded/Hollix/Hollix Current Steps 11.19.26.md",
+    "Sundt Benefits number.md",
+    "Programming/Embedded/Hollix/3.7V 4000mAh Micro JST 1.25 LiPo Rechargeable Battery Info.md",
+    "3.7V 4000mAh Micro JST 1.25 LiPo Rechargeable Battery.md",
+    "Programming/Embedded/Hollix/DataSheet_buckRegulator_AP63200-AP63201-AP63203-AP63205.pdf",
+    "DataSheet_buckRegulator_AP63200-AP63201-AP63203-AP63205.pdf",
+    "Programming/Embedded/Hollix/mcp73871-click-schematic-v100.pdf",
+    "mcp73871-click-schematic-v100.pdf",
+    "Programming/Embedded/Hollix/MCP73871-Data-Sheet-DS20002090F.pdf",
+    "MCP73871-Data-Sheet-DS20002090F.pdf",
     "Programming/C/vsnprintf().md",
+    "Programming/Cmake/cmake_run_program.md",
     "Programming/Embedded/MOSI and MISO.md",
-    "Programming/Linux/ArchLinux/Arch Hotkeys.md",
     "Programming/Embedded/UART Universal Asynchronous Receiver or Transmitter.md",
-    "Programming/Embedded/Baud Rate.md",
     "Programming/Embedded/HAL_UART_Transmit_DMA.md",
     "Programming/Embedded/__get_Primask().md",
-    "Programming/C/Variadic List.md",
     "Programming/Linux/ArchLinux/Arch Linux Backup System.md",
+    "Programming/Cmake/cmake_terminal_syntax.md",
+    "Programming/clang-tidy/clang_tidy_commands.md",
+    "Programming/Neovim/Vim Motions.md",
+    "Programming/Cmake/CMake General Syntax.md",
+    "vcpkg.md",
+    "Programming/Linux/ArchLinux/Arch Packages.md",
+    "Programming/C/Variadic List.md",
     "Programming/Linux/ArchLinux/ArchLinux Backup Scratch.md",
-    "Arch Linux Update Log.md",
-    "Programming/Linux/ArchLinux/Arch Linux Backup Log.md",
-    "Programming/clang-tidy/longest_palindrome.c",
-    "Cmake/cmake_terminal_syntax.md",
-    "Programming/Cmake/cmake_run_program.md~",
-    "Cmake",
-    "Programming/Cmake/testfile.md",
-    "hermes_agent/hermes_commands/Hermes Bash Commands.md~",
-    "hermes-write-test.md",
-    "mount-check.txt",
-    "docker-test.txt",
-    "Programming/clang-tidy",
-    "host-test.txt",
-    "hotkeys",
+    "Cohen.md",
+    "Untitled 3.md",
+    "hermes_agent/hermes_commands/Hermes Bash Commands.md",
     "Images/AC_and_DC.jpg",
     "Images/Hollix_box.png",
     "Images/nvic_4.jpg",
