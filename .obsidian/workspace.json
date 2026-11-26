@@ -280,15 +280,43 @@
               "type": "markdown",
               "state": {
                 "file": "Programming/Embedded/Hollix/Hollix Current Steps 11.19.26.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Hollix Current Steps 11.19.26"
             }
+          },
+          {
+            "id": "becc4a72441c50e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Linux/ArchLinux/Arch Packages.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arch Packages"
+            }
+          },
+          {
+            "id": "3a7521f69355bd8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Neovim/Vim Motions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vim Motions"
+            }
           }
         ],
-        "currentTab": 19
+        "currentTab": 21
       }
     ],
     "direction": "vertical"
@@ -347,7 +375,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "86b4cac001c81797",
@@ -437,25 +466,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "31aec0af3c9fed96",
+  "active": "3a7521f69355bd8c",
   "lastOpenFiles": [
+    "Programming/Linux/ArchLinux/Arch Packages.md",
+    "Untitled 4.md",
+    "Programming/Embedded/Hollix/Hollix Current Steps 11.19.26.md",
+    "Programming/Embedded/Hollix/hollix_data_sheets/display_mechanical_datasheet.pdf",
+    "Programming/Embedded/Hollix/hollix_data_sheets/DM-TFT40-388_20Controller_20Datasheet.pdf",
+    "Programming/Embedded/Hollix/hollix_data_sheets/display_datasheet.pdf",
+    "Programming/Embedded/Hollix/hollix_data_sheets/User_guide_slvu998.pdf",
+    "Programming/Embedded/Hollix/hollix_data_sheets/um2407-stm32h7-nucleo144-board-stmicroelectronics.pdf",
+    "Programming/Embedded/Hollix/hollix_data_sheets/MCP73871-Data-Sheet-DS20002090F.pdf",
+    "Programming/Embedded/Hollix/hollix_data_sheets/mcp73871-click-schematic-v100.pdf",
+    "Programming/Embedded/Hollix/hollix_data_sheets/DS_stm32h753zi.pdf",
+    "Programming/Embedded/Hollix/hollix_data_sheets/dataSheet_tps61176.pdf",
+    "Programming/Embedded/Hollix/hollix_data_sheets/DataSheet_buckRegulator_AP63200-AP63201-AP63203-AP63205.pdf",
+    "Programming/Embedded/Hollix/hollix_visual_inspiration.webp",
+    "Programming/Embedded/Hollix/hollix_display_info.jpeg",
     "Programming/Embedded/Hollix/Hardware compatibility-matrix.md",
     "Programming/Embedded/Hollix/Hollix Prototype Hardware.md",
     "Programming/Linux/Linux Commands.md",
-    "Programming/Embedded/Hollix/DM-TFT40-388_20initialization_20code.rar",
-    "Programming/Embedded/Hollix/display_datasheet.pdf",
-    "Programming/Embedded/Hollix/DM-TFT40-388_20Controller_20Datasheet.pdf",
-    "Programming/Embedded/Hollix/DS_stm32h753zi.pdf",
-    "Programming/Embedded/Hollix/Hollix Current Steps 11.19.26.md",
     "Sundt Benefits number.md",
     "Programming/Embedded/Hollix/3.7V 4000mAh Micro JST 1.25 LiPo Rechargeable Battery Info.md",
     "3.7V 4000mAh Micro JST 1.25 LiPo Rechargeable Battery.md",
-    "Programming/Embedded/Hollix/DataSheet_buckRegulator_AP63200-AP63201-AP63203-AP63205.pdf",
-    "DataSheet_buckRegulator_AP63200-AP63201-AP63203-AP63205.pdf",
-    "Programming/Embedded/Hollix/mcp73871-click-schematic-v100.pdf",
-    "mcp73871-click-schematic-v100.pdf",
-    "Programming/Embedded/Hollix/MCP73871-Data-Sheet-DS20002090F.pdf",
-    "MCP73871-Data-Sheet-DS20002090F.pdf",
     "Programming/C/vsnprintf().md",
     "Programming/Cmake/cmake_run_program.md",
     "Programming/Embedded/MOSI and MISO.md",
@@ -468,7 +501,6 @@
     "Programming/Neovim/Vim Motions.md",
     "Programming/Cmake/CMake General Syntax.md",
     "vcpkg.md",
-    "Programming/Linux/ArchLinux/Arch Packages.md",
     "Programming/C/Variadic List.md",
     "Programming/Linux/ArchLinux/ArchLinux Backup Scratch.md",
     "Cohen.md",
@@ -482,8 +514,6 @@
     "Images/nvic_1.jpg",
     "Images/BSSR_image_3.jpg",
     "Images/BSSR_image_2.jpg",
-    "Images/BSSR_image_1.jpg",
-    "Images/GPIO_moder.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]

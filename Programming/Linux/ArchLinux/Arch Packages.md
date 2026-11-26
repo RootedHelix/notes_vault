@@ -99,6 +99,29 @@ Used to run applications in isolation
 
 ### seahorse
 
+
+### Signal
+
+- Encrypted Messaging software
+
+### Kicad
+- PCB Design Software
+
+##### Kicad-Library
+- Default Kicad libraries
+
+##### kicad-library-3d
+- 3D library is useful for board visualization
+
+ 
+### Grim and slurp
+
+- Screenshot package
+
+
+
+
+
 ---
 # Security
 

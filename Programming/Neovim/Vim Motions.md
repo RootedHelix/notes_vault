@@ -6,6 +6,14 @@ Related to [[NeoVim]],
 :let @+ = expand('%:p')
 ```
 
+### Take Screenshot with Grim
+
+```bash
+grim -g "$(slurp)" ~/Pictures/screenshot.png
+```
+
+
+
 ```
 
 
